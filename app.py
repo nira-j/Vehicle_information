@@ -1,4 +1,3 @@
-from logging import debug
 from flask import Flask, render_template, request
 import os
 import numpy as np
